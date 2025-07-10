@@ -14,12 +14,13 @@ This project demonstrates an **end-to-end data analytics pipeline** to analyze a
 ---
 
 ## 📁 Project Structure
+```
 ├── data/ # Sample raw data or CSV exports (optional)
 ├── notebooks/ # Python notebooks for data extraction & cleaning
 ├── dashboards/ # Power BI (.pbix) files
 ├── requirements.txt # Python dependencies
 └── README.md # Project overview
-
+```
 
 ---
 
